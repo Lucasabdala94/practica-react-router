@@ -8,6 +8,18 @@ p {
   display: block;
   padding: 10px;
 }
+.nombreclase {
+  color: aliceblue !important;
+  background-color: brown !important;
+  display: block;
+  width: 100px;
+  height: 25px;
+  padding: 4px 4px;
+  text-align: center;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 12px;
+}
 .navbar ul {
   display: flex;
   justify-content: space-around;
